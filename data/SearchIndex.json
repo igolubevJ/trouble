@@ -49,6 +49,11 @@
       "slug": "zone-5-scanner-go-box-issue",
       "title": "Коробки не уезжают со сканнера",
       "subtitle": "Отсутствует движение коробов после сканера"
+    },
+    {
+      "slug": "zone-5-meslab-conn-error",
+      "title": "Ошибки связи после перезагрузки оборудования",
+      "subtitle": "MaxPallet и Meslab не могут установить соединение"
     }
   ]
 }
